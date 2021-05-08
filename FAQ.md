@@ -12,6 +12,7 @@ You can buy it using Scratchcoins. You need to navigate to the bottom of the Scr
 1. Get using Scratchcoins
 2. Buy using real money
 3. Gift Scratch Nitro
+<br>
 When you chosen a way, click Get Scratch Nitro or Purchase Scratch Nitro or Gift Scratch Nitro.
 
 ## How do I get a specific class of Scratch Nitro?
@@ -19,4 +20,5 @@ You need to have Scratch Nitro before you get a class. When you have it, navigat
 1. Get using Scratchcoins
 2. Buy using real money
 3. Gift Scratch Nitro
+<br>
 When you chosen a way and a class, click Upgrade. Now, you have a Scratch Nitro class!
