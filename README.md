@@ -22,4 +22,4 @@ The sneak peek screenshots are made using **Inspect Element** or an **image edit
 Do you have any questions? Check out the [FAQ](https://scratchnitro.github.io/FAQ) if there isn't an answer on your question!
 
 ## Scratchcoins
-Scratchcoins are a free way to buy the Scratch Nitro, and other classes of Scratch Nitro. Extension developers and extension repository members gets 500 Scratchcoins as a thank you for participating on the repository. If you want to know more about Scratchcoins, click here.
+Scratchcoins are a free way to buy the Scratch Nitro, and other classes of Scratch Nitro. Extension developers and extension repository members gets 500 Scratchcoins as a thank you for participating on the repository. If you want to know more about Scratchcoins, [click here](https://scratchnitro.github.io/Scratchcoins).
