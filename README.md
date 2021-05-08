@@ -1,5 +1,5 @@
 # Scratch Nitro official website
-This is Scratch Nitro's **OFFICIAL** website! This website has fun facts and the download link to Scratch Nitro!
+This is Scratch Nitro's **OFFICIAL** website! This website has fun facts and the download link to Scratch Nitro! The site is managed by Marc92020 and JackyBorderCollie.
 
 ## Download page
 
