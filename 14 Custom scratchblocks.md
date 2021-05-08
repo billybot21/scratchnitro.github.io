@@ -11,4 +11,6 @@ These are some examples of the 1.4 scratchblocks:
 
 ![](https://github.com/ScratchNitro/scratchnitro.github.io/blob/main/images/scratchblocks%20(7).gif?raw=true)
 
+![](https://raw.githubusercontent.com/ScratchNitro/scratchnitro.github.io/main/images/nitro%20blocks.gif)
+
 Some of the blocks are made with an old version of Snap! (when it was called BYOB)
