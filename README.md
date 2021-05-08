@@ -26,3 +26,6 @@ Scratchcoins are a free way to buy the Scratch Nitro, and other classes of Scrat
 
 ## About us
 Wanna know about the page managers? [Click here!](https://scratchnitro.github.io/About%20us)
+
+## Old Scratch Nitro site
+Before this site, a test site have existed. If you want to view it, [click here](https://marc92020.github.io/scratch-nitro-current-website/).
