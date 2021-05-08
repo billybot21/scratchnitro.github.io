@@ -7,11 +7,19 @@ There is no download page because Scratch Nitro is incomplete.
 
 ## Fun facts:
 
-Scratch Nitro has it's own forums! It can be found here: https://scratchnitro.proboards.com/
+Scratch Nitro has it's own forums! It can be found here: [https://scratchnitro.proboards.com/](https://scratchnitro.proboards.com/)
 <br>
 Before this website, there was a test site (that's actually a great rhyme)
 <br>
 This website's source is made using a `md` file instead of `html` file
+<br>
+This website has also custom 1.4 scratchblocks
+<br>
+Scratch Nitro is going to be an extension too!
+<br>
+The Scratch Nitro forums are managed by JackyBorderCollie
+<br>
+Marc92020 will be a new admin on the Scratch Nitro forums
 <br>
 #### More fun facts coming soon
 
@@ -29,3 +37,6 @@ Wanna know about the page managers? [Click here!](https://scratchnitro.github.io
 
 ## Old Scratch Nitro site
 Before this site, a test site have existed. If you want to view it, [click here](https://marc92020.github.io/scratch-nitro-current-website/).
+
+## 1.4 Custom Scratchblocks
+Want to check out some custom 1.4 scratchblocks? [Click here!](https://scratchnitro.github.io/14%20Custom%20scratchblocks)
