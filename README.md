@@ -1,4 +1,4 @@
-# Scartch Nitro official website
+# Scratch Nitro official website
 This is Scratch Nitro's **OFFICIAL** website! This website has fun facts and the download link to Scratch Nitro!
 
 ## Download page
