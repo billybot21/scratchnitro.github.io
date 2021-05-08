@@ -7,3 +7,7 @@ These are some examples of the 1.4 scratchblocks:
 <br>
 <br>
 ![](https://github.com/ScratchNitro/scratchnitro.github.io/blob/main/images/scratchblocks%20(6).png?raw=true)
+
+![](https://raw.githubusercontent.com/ScratchNitro/scratchnitro.github.io/main/images/cool%20blox.gif)
+
+These blocks are made with an old version of Snap! (when it was called BYOB)
