@@ -37,11 +37,13 @@ Do you have any questions? Check out the [FAQ](https://scratchnitro.github.io/FA
 ## Scratchcoins
 Scratchcoins are a free way to buy the Scratch Nitro, and other classes of Scratch Nitro. Extension developers and extension repository members gets 500 Scratchcoins as a thank you for participating on the repository. If you want to know more about Scratchcoins, [click here](https://scratchnitro.github.io/Scratchcoins).
 
-## About us
+## Other
+
+### About us
 Wanna know about the page managers? [Click here!](https://scratchnitro.github.io/About%20us)
 
-## Old Scratch Nitro site
+### Old Scratch Nitro site
 Before this site, a test site have existed. If you want to view it, [click here](https://marc92020.github.io/scratch-nitro-current-website/).
 
-## 1.4 Custom Scratchblocks
+### 1.4 Custom Scratchblocks
 Want to check out some custom 1.4 scratchblocks? [Click here!](https://scratchnitro.github.io/14%20Custom%20scratchblocks)
