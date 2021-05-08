@@ -4,3 +4,6 @@ The custom 1.4 scratchblocks are similar to the block plugin, but with a twist t
 These are some examples of the 1.4 scratchblocks:
 <br>
 ![](https://github.com/ScratchNitro/scratchnitro.github.io/blob/main/images/scratchblocks(1).png?raw=true)
+<br>
+<br>
+![](https://github.com/ScratchNitro/scratchnitro.github.io/blob/main/images/scratchblocks%20(6).png?raw=true)
