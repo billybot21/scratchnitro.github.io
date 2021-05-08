@@ -5,6 +5,11 @@ This is Scratch Nitro's **OFFICIAL** website! This website has fun facts and the
 
 There is no download page because Scratch Nitro is incomplete.
 
+## News
+### 8/5/2021
+- The website has a new favicon!
+- The website has a new 1.4 blocks plugin!
+
 ## Fun facts:
 
 Scratch Nitro has it's own forums! It can be found here: [https://scratchnitro.proboards.com/](https://scratchnitro.proboards.com/)
