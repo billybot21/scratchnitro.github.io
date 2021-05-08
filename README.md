@@ -22,9 +22,7 @@ This website has also custom 1.4 scratchblocks
 <br>
 Scratch Nitro is going to be an extension too!
 <br>
-The Scratch Nitro forums are managed by JackyBorderCollie
-<br>
-Marc92020 will be a new admin on the Scratch Nitro forums
+The Scratch Nitro forums are managed by JackyBorderCollie and Marc92020
 <br>
 #### More fun facts coming soon
 
