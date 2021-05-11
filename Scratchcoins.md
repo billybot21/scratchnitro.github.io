@@ -17,3 +17,7 @@ There are also some third-party ways to get Scratchcoins, however it's not as sa
 - Investing in Scratchcoins
 - Getting Scratchcoins using a hack
 - Scratchcoins Generator website
+## What do Scratchcoins look like?
+Scratchcoin art has been made, but it's not official if it will be the final Scratchcoin design.
+
+![](https://raw.githubusercontent.com/ScratchNitro/scratchnitro.github.io/4da8a88ccdb6a75ac8d3d1b929d2855526abab73/images/scratchcoin.svg)
