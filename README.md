@@ -50,3 +50,6 @@ Want to check out some custom 1.4 scratchblocks? [Click here!](https://scratchni
 If you want to know if the test site is down, you can see it here:
 
 [![Website](https://img.shields.io/website?down_color=lightgray&style=plastic&up_color=brightgreen&url=https%3A%2F%2Fmarc92020.github.io%2Fscratch-nitro-current-website%2F)](https://marc92020.github.io/scratch-nitro-current-website/)
+
+### Nitro members
+There is a list of all the Scratch Nitro members. [Click this link to see all the members!](https://scratchnitro.github.io/NitroUsers)
