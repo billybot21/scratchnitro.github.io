@@ -53,3 +53,6 @@ If you want to know if the test site is down, you can see it here:
 
 ### Nitro members
 There is a list of all the Scratch Nitro members. [Click this link to see all the members!](https://scratchnitro.github.io/NitroUsers)
+
+### Nitro contributors
+There is also a list of all the people who helped with Scratch Nitro. [Click this to see them!](https://scratchnitro.github.io/Contributors/)
